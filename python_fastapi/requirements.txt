@@ -1,0 +1,2 @@
+fastapi=='some-version'
+uvicorn=='version'
